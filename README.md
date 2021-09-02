@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Lakhan Rathi
 #### I am a student at Sipna College of Engineering Amravati
-![I am a student at Sipna College of Engineering Amravati](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a student at Sipna College of Engineering Amravati]
+![Lakhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+<!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I am seeking opportunities to join an organization that can help in enhancing my skills, strengthening my knowledge, and realizing my potential and also want to utilize my skill and knowledge for the growth of the organization.
 
