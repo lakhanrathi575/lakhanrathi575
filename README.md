@@ -2,6 +2,7 @@
 #### I am a student at Sipna College of Engineering Amravati
 <!-- ![I am a student at Sipna College of Engineering Amravati] -->
 ![Lakhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakhanrathi575&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakhanrathi575&show_icons=true&theme=radical)
 
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
