@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there 👋, I'm Lakhan Rathi
 #### I am a student at Sipna College of Engineering Amravati
 ![I am a student at Sipna College of Engineering Amravati](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
