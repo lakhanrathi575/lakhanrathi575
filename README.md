@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Lakhan Rathi
-#### I am a student at Sipna College of Engineering Amravati
+#### I am a student at Sipna College of Engineering and Technology Amravati
 
 ##### I like to learn new technologies.
 - 🔭 I’m currently working on Final Year major project.
@@ -21,7 +21,7 @@ Fit2fights is a Karate academy in Chandrapur. We have used Flask framework for d
 
 :hospital:&nbsp;&nbsp;**[Hospital Management System](https://lakhanrathi575.pythonanywhere.com/)**
 
-This was my third year minor project. This project is all about making hospitals automated. In this project I have worked on Flask, HTML, Boostrap and Javascript. 
+This was my third year minor project. This project is all about making hospital automated. In this project I have worked on Flask, HTML, Boostrap and Javascript. 
 <!--
 **lakhanrathi575/lakhanrathi575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
