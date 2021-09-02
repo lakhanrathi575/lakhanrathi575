@@ -1,13 +1,10 @@
 ### Hi there 👋, I'm Lakhan Rathi
 #### I am a student at Sipna College of Engineering Amravati
-<!-- ![I am a student at Sipna College of Engineering Amravati] -->
-<!-- ![Lakhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakhanrathi575&count_private=true) -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakhanrathi575&show_icons=true&theme=radical&?count_private=true) -->
 
-<!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-
-I am seeking opportunities to join an organization that can help in enhancing my skills, strengthening my knowledge, and realizing my potential and also want to utilize my skill and knowledge for the growth of the organization.
-
+#####I like to learn new technologies.
+- 🔭 I’m currently working on Final Year major project.
+- 🌱 I’m currently learning AI and ML.
+- 📫 To know more, track me on **[Linkedin](https://www.linkedin.com/in/lakhanrathi/)**
 <!-- Skills: PYTHON / FLASK / DJANGO / HTML / BOOTSRAP -->
 <br><br>
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
@@ -25,7 +22,7 @@ Fit2fights is a Karate academy in Chandrapur. We have used Flask framework for d
 
 :hospital:&nbsp;&nbsp;**[Hospital Management System](https://lakhanrathi575.pythonanywhere.com/)**
 
-This was my third year minor project. This project is all about making hospitals automated. In this project i have worked on Flask, HTML, Boostrap and Javascript. 
+This was my third year minor project. This project is all about making hospitals automated. In this project I have worked on Flask, HTML, Boostrap and Javascript. 
 <!--
 **lakhanrathi575/lakhanrathi575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
