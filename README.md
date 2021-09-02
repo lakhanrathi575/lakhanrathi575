@@ -17,7 +17,7 @@ I am seeking opportunities to join an organization that can help in enhancing my
 - 🔭 I’m currently working on this page. 
 
   :weight_lifting:
-
+🏋️‍♂️
 
 
 <!--
