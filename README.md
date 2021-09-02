@@ -16,7 +16,7 @@ I am seeking opportunities to join an organization that can help in enhancing my
 <br>
 
 
-:hospital:&nbsp;&nbsp;**[Fit2fights Karate Academy](https://lakhanrathi575.pythonanywhere.com/)**
+:hospital:&nbsp;&nbsp;**[Fit2fights Karate Academy](https://fit2fights.com/)**
 
 <!-- :weight_lifting:&nbsp;&nbsp;**[Fit2fights](https://fit2fights.com/)** -->
 <!-- :hospital:&nbsp;&nbsp;**[Fit2fights Karate Academy Chandrapur](https://lakhanrathi575.pythonanywhere.com/)** -->
