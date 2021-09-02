@@ -12,14 +12,14 @@
 <br>
 
 
-:hospital:&nbsp;&nbsp;**[Fit2fights Karate Academy](https://fit2fights.com/)**
+:🏋️‍♀️:&nbsp;&nbsp;**[Fit2fights Karate Academy](https://fit2fights.com/)**
 
 <!-- :weight_lifting:&nbsp;&nbsp;**[Fit2fights](https://fit2fights.com/)** -->
 <!-- :hospital:&nbsp;&nbsp;**[Fit2fights Karate Academy Chandrapur](https://lakhanrathi575.pythonanywhere.com/)** -->
 
 Fit2fights is a Karate academy in Chandrapur. We have used Flask framework for development of this dynamaic website. 
 
-:hospital:&nbsp;&nbsp;**[Hospital Management System](https://lakhanrathi575.pythonanywhere.com/)**
+🏥&nbsp;&nbsp;**[Hospital Management System](https://lakhanrathi575.pythonanywhere.com/)**
 
 This was my third year minor project. This project is all about making hospital automated. In this project I have worked on Flask, HTML, Boostrap and Javascript. 
 <!--
