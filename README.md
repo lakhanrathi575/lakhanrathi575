@@ -21,7 +21,7 @@ I am seeking opportunities to join an organization that can help in enhancing my
 <!-- :weight_lifting:&nbsp;&nbsp;**[Fit2fights](https://fit2fights.com/)** -->
 <!-- :hospital:&nbsp;&nbsp;**[Fit2fights Karate Academy Chandrapur](https://lakhanrathi575.pythonanywhere.com/)** -->
 
-Fit2fights is a Karate academy in Chandrapur.
+Fit2fights is a Karate academy in Chandrapur. We have used Flask framework for development of this dynamaic website. 
 
 :hospital:&nbsp;&nbsp;**[Hospital Management System](https://lakhanrathi575.pythonanywhere.com/)**
 
