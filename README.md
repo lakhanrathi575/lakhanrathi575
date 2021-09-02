@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Lakhan Rathi
 #### I am a student at Sipna College of Engineering Amravati
 
-#####I like to learn new technologies.
+##### I like to learn new technologies.
 - 🔭 I’m currently working on Final Year major project.
 - 🌱 I’m currently learning AI and ML.
 - 📫 To know more, track me on **[Linkedin](https://www.linkedin.com/in/lakhanrathi/)**
